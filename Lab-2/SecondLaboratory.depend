@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523701602 source:c:\users\ana\desktop\utm\wp\secondlaboratory\main.cpp
+	<windows.h>
+	"resources.h"
+
+1523701005 c:\users\ana\desktop\utm\wp\secondlaboratory\resources.h
+
+1523701005 source:c:\users\ana\desktop\utm\wp\secondlaboratory\resources.rc
+	"resources.h"
+

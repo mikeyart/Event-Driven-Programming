@@ -1,0 +1,11 @@
+#ifndef RESOURCES_H_INCLUDED
+#define RESOURCES_H_INCLUDED
+#define FILE_SOUND 1
+#define FILE_DBOX 2
+#define FILE_EXIT 3
+#define ID_LISTBOX 4
+#define ID_ADDBOX 5
+#define ID_ADD 6
+#define ID_ICON 7
+#define ID_SCROLL_COLOR 8
+#endif // RESOURCES_H_INCLUDED
